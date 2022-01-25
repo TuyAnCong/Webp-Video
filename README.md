@@ -13,6 +13,6 @@ cd Webp-Video
 ./webp-start.py
 ```
 ## Run at 
-[![Run on repl.it](https://repl.it/badge/github/TuyAnCong/Webp-Video)](https://repl.it/github/TuyAnCong/Webp-Video}&ref=button)<a href="repl.it/github/TuyAnCong/Webp-Video"><img src="https://repl-badge.jajoosam.repl.co/edit.png" height="20pt"/></a>
+[![Run on repl.it](https://repl.it/badge/github/TuyAnCong/Webp-Video)](https://repl.it/github/TuyAnCong/Webp-Video}&ref=button)<a href="http://epl.it/github/TuyAnCong/Webp-Video"><img src="https://repl-badge.jajoosam.repl.co/edit.png" height="20pt"/></a>
 
 [Author by @CHVMusic](https://repl.it/@CHVMusic)
